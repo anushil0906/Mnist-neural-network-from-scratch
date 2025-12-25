@@ -1,3 +1,8 @@
+**DEMO**
+
+https://github.com/user-attachments/assets/d404ad0e-e02d-4435-96a5-4d66ce643939
+
+
 **Description**
 
 This project implements a fully connected neural network from scratch using NumPy
