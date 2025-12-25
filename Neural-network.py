@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt        
 # importing the dataset from CSV file
-data = pd.read_csv(r'C:\Users\sharm\Downloads\NN_scratch\train\train.csv')
+data = pd.read_csv(r'C:\Users\sharm\OneDrive\Documents\GitHub\Mnist-neural-network-from-scratch\train\train.csv')
 
 # Converting the DataFrame to a NumPy array for easier manipulation
 data = np.array(data)
