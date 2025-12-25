@@ -15,6 +15,7 @@ Network Architecture:
 - Output Layer: 10 neurons (Softmax)
 
 **Requirement**
+
 NumPy: For matrix operations 
 
 Pandas: For loading the dataset 
