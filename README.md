@@ -14,3 +14,7 @@ Network Architecture:
 - Hidden Layer 2: 36 neurons (ReLU)
 - Output Layer: 10 neurons (Softmax)
 
+**Requirement**
+NumPy: For matrix operations 
+Pandas: For loading the dataset 
+Matplotlib: For visualizing digits
