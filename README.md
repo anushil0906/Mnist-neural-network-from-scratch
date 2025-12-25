@@ -46,6 +46,14 @@ A₂ = ReLU(Z₂)
 Z₃ = W₃A₂ + b₃
 A₃ = Softmax(Z₃)
 
+**2 Backpropagation**
+
+Backpropagation is the core learning mechanism used to train the neural network.
+It computes how much each weight contributes to the final prediction error and updates the weights accordingly.
+
+
+![WhatsApp Image 2025-12-25 at 4 52 44 PM](https://github.com/user-attachments/assets/eb990783-be83-4c04-8d33-fa50a0c9b0e4)
+
 
 
 
