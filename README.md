@@ -5,6 +5,13 @@ to classify handwritten digits from the MNIST dataset. The goal was to gain a de
 understanding of neural network internals, including forward propagation, backpropagation,
 gradient descent, and activation functions without relying on deep learning frameworks.
 
+**Requirement**
+
+NumPy: For matrix operations 
+
+Pandas: For loading the dataset 
+
+Matplotlib: For visualizing digits
 
 **Architecture**
 
@@ -26,11 +33,3 @@ Network Architecture:
 - Model evaluation using accuracy
 
 
-
-**Requirement**
-
-NumPy: For matrix operations 
-
-Pandas: For loading the dataset 
-
-Matplotlib: For visualizing digits
