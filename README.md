@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-25 at 5 09 57 PM](https://github.com/user-attachments/assets/15ff034a-9174-4205-a06a-d74b272e0431)**Description**
+**Description**
 
 This project implements a fully connected neural network from scratch using NumPy
 to classify handwritten digits from the MNIST dataset. The goal was to gain a deep
