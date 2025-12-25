@@ -33,40 +33,7 @@ Network Architecture:
 - Model evaluation using accuracy
 
 **MATH USED**
-The model uses softmax with cross-entropy loss at the output layer.
 
-∂
-𝐿
-∂
-𝑍
-(
-3
-)
-=
-𝐴
-(
-3
-)
-−
-𝑌
-∂Z
-(3)
-∂L
-	​
-
-=A
-(3)
-−Y
-
-Where:
-
-𝐴
-(
-3
-)
-A
-(3)
- = predicted probabilities
 
 𝑌
 Y = one-hot encoded true labels
