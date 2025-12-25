@@ -34,6 +34,17 @@ Network Architecture:
 
 **MATH USED**
 
+**1 Forward Propagation**
+Z₁ = W₁X + b₁
+A₁ = ReLU(Z₁)
+
+Z₂ = W₂A₁ + b₂
+A₂ = ReLU(Z₂)
+
+Z₃ = W₃A₂ + b₃
+A₃ = Softmax(Z₃)
+
+
 
 𝑌
 Y = one-hot encoded true labels
