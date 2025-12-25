@@ -35,6 +35,8 @@ Network Architecture:
 **MATH USED**
 
 **1 Forward Propagation**
+
+
 Z₁ = W₁X + b₁
 A₁ = ReLU(Z₁)
 
