@@ -1,4 +1,4 @@
-**Description**
+![WhatsApp Image 2025-12-25 at 5 09 57 PM](https://github.com/user-attachments/assets/15ff034a-9174-4205-a06a-d74b272e0431)**Description**
 
 This project implements a fully connected neural network from scratch using NumPy
 to classify handwritten digits from the MNIST dataset. The goal was to gain a deep
@@ -50,7 +50,13 @@ A₂ = ReLU(Z₂)
 Z₃ = W₃A₂ + b₃
 A₃ = Softmax(Z₃)
 
-**2 Backpropagation**
+
+**2 Loss Function**
+
+![WhatsApp Image 2025-12-25 at 5 09 57 PM](https://github.com/user-attachments/assets/42a9261e-99dd-40ad-911d-ba903f7345ba)
+
+
+**3 Backpropagation**
 
 Backpropagation is the core learning mechanism used to train the neural network.
 It computes how much each weight contributes to the final prediction error and updates the weights accordingly.
