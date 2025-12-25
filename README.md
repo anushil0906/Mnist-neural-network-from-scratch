@@ -16,5 +16,7 @@ Network Architecture:
 
 **Requirement**
 NumPy: For matrix operations 
+
 Pandas: For loading the dataset 
+
 Matplotlib: For visualizing digits
