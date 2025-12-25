@@ -14,6 +14,19 @@ Network Architecture:
 - Hidden Layer 2: 36 neurons (ReLU)
 - Output Layer: 10 neurons (Softmax)
 
+**Key Concept Implemented** 
+
+- Weight and bias initialization
+- Forward propagation
+- ReLU and Softmax activation functions
+- Cross-entropy loss
+- Backpropagation using chain rule
+- Gradient descent optimization
+- One-hot encoding of labels
+- Model evaluation using accuracy
+
+
+
 **Requirement**
 
 NumPy: For matrix operations 
