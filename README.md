@@ -48,9 +48,6 @@ A₃ = Softmax(Z₃)
 
 
 
-𝑌
-Y = one-hot encoded true labels
 
-This gradient represents the error signal at the output layer.
 
 
