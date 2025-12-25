@@ -32,6 +32,10 @@ Network Architecture:
 - One-hot encoding of labels
 - Model evaluation using accuracy
 
+**Results**
+
+After training for 500 iterations with a learning rate of 0.2, the network achieves around 92% accuracy on the test set.
+
 **MATH USED**
 
 **1 Forward Propagation**
