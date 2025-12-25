@@ -52,7 +52,24 @@ Backpropagation is the core learning mechanism used to train the neural network.
 It computes how much each weight contributes to the final prediction error and updates the weights accordingly.
 
 
-![WhatsApp Image 2025-12-25 at 4 52 44 PM](https://github.com/user-attachments/assets/eb990783-be83-4c04-8d33-fa50a0c9b0e4)
+**Loss Gradient w.r.t Weights**
+
+![WhatsApp Image 2025-12-25 at 4 57 53 PM](https://github.com/user-attachments/assets/ce99e37b-1cb1-4d6b-869a-19b34f0370e5)
+
+
+**Chain Rule in Backpropagation**
+
+![WhatsApp Image 2025-12-25 at 4 58 26 PM](https://github.com/user-attachments/assets/abdee58f-32cf-4faa-8280-4fcdd8c32421)
+
+
+**Weight Updates via Gradient Descent**
+
+![WhatsApp Image 2025-12-25 at 4 53 46 PM](https://github.com/user-attachments/assets/bb5d1ddc-6b36-4cf9-88cf-548f01c65c5f)
+
+
+
+
+
 
 
 
